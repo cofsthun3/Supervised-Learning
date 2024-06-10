@@ -15,5 +15,5 @@ To build the environment you will first have to install the required packages fr
 5. Start jupyter notebook using 'Jupyter Notebook' command in terminal
 6. Run through the code sequentially.
 
-If you have any questions or run into unexpected issues, please reach out cole.ofsthun@gatech.edu. Thank you!
+If you have any questions or run into unexpected issues, please reach out coleofsthun@gatech.edu. Thank you!
 

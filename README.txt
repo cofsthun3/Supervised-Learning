@@ -6,9 +6,9 @@ This project introduces the use of machine learning to test accuracy of scalping
 
 **Environment**
 
-To build the environment you will first have to install the required packages from the requirements.txt file.
+To build the environment you will first have to install the required packages from the requirements.txt file. After pulling the github repository in your environment:
 
-1. First navigate to the src folder in the terminal
+1. First navigate to the folder in the terminal
 2. pip install -r requirements.txt
 3. pip install ipykernel
 4. python -m ipykernel install --user --name=trade_bots

@@ -1,5 +1,7 @@
 Title: CS7641 - HW1 Supervised Learning 
 
+You can access the code needed to obtain these results using the following link: https://github.com/cofsthun3/Supervised-Learning
+
 **Description**
 This project introduces the use of machine learning to test accuracy of scalping by testing the precision using different models.
 
